@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="Actividad_5_1.xsl"?>
+<?xml-stylesheet type="text/xsl" href="Actividad_5_2.xsl"?>
 <libreria>
     <libro>
         <titulo>Physics-based animation </titulo>
@@ -49,5 +49,12 @@
         <editor>National Geographic</editor>
         <isbn>8482986147</isbn>
         <precio>10,30</precio>
+    </libro>
+    <libro>
+        <titulo>Trolls 2. El libro de la película</titulo>
+        <autor>Dreamworks</autor>
+        <editor>Planeta S.A</editor>
+        <isbn>1548644788</isbn>
+        <precio>12,80</precio>
     </libro>
 </libreria>
