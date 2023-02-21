@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="1S0-8859-1"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.0rg/1999/XSL/Transform">
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" 
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:template match="/">
         <html>
             <body>
                 <h1>Mi biblioteca</h1>
                 <table>
-                    <tr bgcolor="887788">
+                    <tr bgcolor="#887788">
                         <th>Título</th>
                         <th>Autor</th>
                     </tr>
