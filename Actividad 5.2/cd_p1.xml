@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<catalogo>
+    <cd>
+        <titulo>Thriller</titulo>
+        <artista>Michael Jackson</artista>
+        <canciones>
+            <cancion tiempo="5:57">Wanna Be Starting Something</cancion>
+            <cancion tiempo="4:18">Baby Be Mine</cancion>
+            <cancion tiempo="3:42">The Girl Is Mine</cancion>
+            <cancion tiempo="5:21">Thriller</cancion>
+            <cancion tiempo="4:19">Beat It</cancion>
+            <cancion tiempo="6:23">Billie Jean</cancion>
+            <cancion tiempo="4:00">Human Nature</cancion>
+        </canciones>
+        <sello_discografico>Epic Records</sello_discografico>
+        <anio_publicacion>1982</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo>The Wall</titulo>
+        <artista>Pink Floyd</artista>
+        <canciones>
+            <cancion tiempo="3:09">In The Flesh?</cancion>
+            <cancion tiempo="1:20">The Thin Ice</cancion>
+            <cancion tiempo="4:03">Another Brick In The Wall (Part 1)</cancion>
+            <cancion tiempo="3:49">The Happiest Days Of Our Lives</cancion>
+            <cancion tiempo="1:35">Another Brick In The Wall (Part 2)</cancion>
+            <cancion tiempo="4:50">Mother</cancion>
+            <cancion tiempo="2:44">Goodbye Blue Sky</cancion>
+            <cancion tiempo="4:44">Empty Spaces</cancion>
+        </canciones>
+        <sello_discografico>Columbia Records</sello_discografico>
+        <anio_publicacion>1979</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo>Metamorfosis</titulo>
+        <artista>RVFV</artista>
+        <canciones>
+            <cancion tiempo="3:23">Metamorfosis</cancion>
+            <cancion tiempo="3:36">Dominicana</cancion>
+            <cancion tiempo="2:35">Habiba</cancion>
+            <cancion tiempo="2:47">Como un pez fuera del agua</cancion>
+            <cancion tiempo="3:38">Mi Grammy</cancion>
+        </canciones>
+        <sello_discografico>Nastu Music</sello_discografico>
+        <anio_publicacion>2022</anio_publicacion>
+    </cd>
+    <cd>
+        <titulo>Tirititando</titulo>
+        <artista>Fernando Costa</artista>
+        <canciones>
+            <cancion tiempo="2:34">Oye</cancion>
+            <cancion tiempo="3:21">Fumando serio</cancion>
+            <cancion tiempo="3:04">F*ck da Popo</cancion>
+            <cancion tiempo="3:20">Hasta cuando</cancion>
+            <cancion tiempo="3:14">100 problemas</cancion>
+            <cancion tiempo="4:36">Nana</cancion>
+            <cancion tiempo="4:03">Noches en vigilia</cancion>
+            <cancion tiempo="4:08">Dime</cancion>
+        </canciones>
+        <sello_discografico>Fernando Costa(ES)</sello_discografico>
+        <anio_publicacion>2022</anio_publicacion>
+    </cd>
+</catalogo>
